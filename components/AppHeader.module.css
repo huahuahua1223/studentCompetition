@@ -1,0 +1,51 @@
+/* AppHeader.module.css */
+.header {
+    background-color: white;
+    border: 1px solid #f1f4f2;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user {
+    display: flex;
+    align-items: center;
+  }
+  
+  .userInfo {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .loginButton {
+    margin-right: 8px;
+  }
+  
+  .registerButton {
+    margin-right: 8px;
+  }
+
+  .userInfo {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: #1890ff; /* 设置文字颜色为蓝色 */
+  }
+  
+  .userInfoAvatar {
+    margin-right: 8px;
+  }
+  

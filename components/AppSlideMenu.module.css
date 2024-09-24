@@ -1,0 +1,23 @@
+/* AppSlideMenu.module.css */
+.menu {
+    width: 100%;
+    background-color: #fff; /* 设置背景色 */
+    border-right: 1px solid #f0f0f0; /* 设置右侧边框 */
+  }
+  
+  .menu .ant-menu-item {
+    padding: 12px 24px; /* 调整菜单项的内边距 */
+  }
+  
+  .menu .ant-menu-item-selected {
+    background-color: #f0f0f0; /* 设置选中菜单项的背景色 */
+  }
+  
+  .menu .ant-menu-item a {
+    color: #333; /* 设置菜单项文字颜色 */
+  }
+  
+  .menu .ant-menu-item a:hover {
+    color: #1890ff; /* 设置菜单项文字的 hover 颜色 */
+  }
+  

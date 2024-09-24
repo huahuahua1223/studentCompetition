@@ -1,0 +1,15 @@
+websocket监听区块
+IPFS 上传图片
+navicat16 自动生成数据
+智能合约加react的二手交易
+geth1.14搭建（未试）
+利用keystore导出私钥（未试）
+
+自动化测试 软测实训作业7
+juint 软测实训作业8
+
+机器学习 python实训2
+爬虫 python实训作业3
+文件  python实训作业4
+
+node nextjs加express
